@@ -81,6 +81,8 @@ print(df)
 ```
 
 ## Output:
+<img width="692" height="549" alt="image" src="https://github.com/user-attachments/assets/afe99ef0-589c-402b-871b-850ceffe1568" />
+<img width="579" height="458" alt="image" src="https://github.com/user-attachments/assets/125783b4-a867-4903-be90-ea2061a3592c" />
 
 
 
